@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: Sans-Serif;
+  text-align: center;
+  margin: 20px 0;
+}
+button{
+  opacity: 0.7;
+}
+button:active{
+  border: none;
+  background: #555555;
+  color:white;
+}

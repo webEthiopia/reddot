@@ -1,0 +1,14 @@
+body{
+  font-family: Arial, Sans-Serif, Segoe UI, Tahoma,Monospace;
+  margin: 9px;
+}
+header{
+  background: black;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  color: red;
+  font-weight: 700;
+}

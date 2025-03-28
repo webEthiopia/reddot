@@ -1,0 +1,46 @@
+body{
+  font-family: Arial;
+  text-align: center;
+  font-size: 18px;
+  margin: 100px 0;
+}
+.title{
+  font-weight: bold;
+  font-size: 72px;
+}
+header p{
+  font-weight: 700;
+  font-size: 25px;
+  margin: 10px auto;
+  width: 80%;
+}
+header,footer{
+  background: black;
+  height: 60px;
+  position: fixed;
+  width: 100%;
+  color: red;
+}
+header{
+  top: 0;
+}
+footer{
+  bottom: -100px;
+  height: 100px;
+  position: absolute;
+}
+footer a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  background: red;
+  position: absolute;
+  bottom: 30px;
+  left: 190px;
+  right: 190px;
+  margin: auto;
+}
+footer a:active , footer a:hover{
+  background: white;
+  color: red;
+}
