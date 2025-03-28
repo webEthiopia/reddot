@@ -132,4 +132,6 @@ footer p{
       width: 80%;
       margin: 30px auto;
     }
+  footer{
+    position:static;
 }
